@@ -106,4 +106,7 @@ Finally, you can run `gatorgrade`:
 
 The grade that a student receives on this assignment will have the following components.
 
-- **Mastery of Technical Writing [up to 100%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflections.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+- **Mastery of Technical Writing [up to 70%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflections.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+
+- **Presentation [up to 30%]:**
+Students will receive a checkmark grade for presentations. Student must be present to receive credit for group's presentation.
