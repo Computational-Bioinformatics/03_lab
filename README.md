@@ -26,10 +26,12 @@ Due: 26 Sept 2022
 
 ## Cloning Your Repository
 
-<!-- Repository link: []() -->
+You can work alone or in a group. If you are working in a group (up to two people), please find a partner before you click on the below repository link. A group leader will click on the link and then establish the group's name. After that step, the other group member(s) may join the group by clicking on the list of names (after clicking on the link). __Caution: your click cannot be corrected if you click on the wrong group name.__
+
+Repository link (The group leader clicks the link first to establish the group name!): https://classroom.github.com/a/VpI9VO2f
 
 - In class, you were given a link to GitHub Classroom. Clicking on this link implied that you __accepted__ the assignment and you were then given a newly created personal repository for your project work.
-- In your work-repository, you can locate a link that you can use to clone the work on your local machine. There, you can begin to work locally using your own editor, Python interpretor, and /or other resources.
+- In your work-repository, you can locate a link that you can use to clone the work on your local machine. There, you can begin to work locally using your own editor, Python interpreter, and /or other resources.
 - Please be sure to __commit__ and __push__ your work periodically using the commands shown below.
 
 ```
@@ -44,7 +46,7 @@ After you have pushed your work to your repository, please visit the repository 
 
 Much research in Bioinformatics can be performed by free and open source tools. In addition, much of the data that would be applied to these tools is also free, open source and therefore conveniently accessible to the public.
 
-In this lab you are given the opportunity to locate and explore a bioinformatics tool that you believe to valuable in research, and to be important to studies of DNA, RNA or protein. Once you have explored the tool, you are to give a brief presentation and demonstration of the tool to the member of the class during the next lab.
+In this lab, you are given an opportunity to locate and explore a bioinformatics tool that is valuable in DNA, RNA, and protein research. Once you have explored the tool, you are to give a brief presentation and demonstration of the tool to the member of the class during the next lab.
 
 ## Part 1: 
 
@@ -52,12 +54,12 @@ __Research an Important Tool__: Working alone or with a partner, you are to spen
 
 - Free and available to all for no charge.
 - Built for data which is also freely accessible.
-- Well documented in terms applications in reseach, and also for how to use it with data.
+- Well documented in terms applications in research, and also for how to use it with data.
 - Have a citation in the form of an article or reference to a programming library.
 
 Although not necessary for this project work, you might consider finding tools with _graphical_ interfaces and outputs that serve to facilitate in the use and digestion of results.
 
-In your investigation of online tools, please keep your concentraion of the below types of themes.
+In your investigation of online tools, please keep your concentration of the below types of themes.
 
 - __Task or research questions__: What application does the tool have in research?
 - __Data__: What kinds of data does the tool use?
@@ -67,7 +69,7 @@ In your investigation of online tools, please keep your concentraion of the belo
 - __Ethical implications__: How could this tool be used in anyway which could lead to suffering on the part of those from whom the data was extracted?
 
 ### The Writing Component
-In the `writing/reflections.md`, you will be addressing questions as your deliverable to this lab. Each working repository is to submit a single document in which each partner has contributed equally.
+In the `writing/reflections.md`, you will be addressing the questions already in the file. Each working repository is to submit a single document in which each partner has contributed equally.
 
 ## Part 2:
 
