@@ -2,13 +2,7 @@
 
 This repository contains information about Bioinformatics lab 3 deliverables. This assignment invites students to find and demonstrate online tools for Bioinformatics research.
 
-## Dates
-
-Handed out: 19 Sept 2022
-
-Due: 26 Sept 2022
-
- ## Contents
+## Contents
 
 - [Objectives](#Objectives)
 - [Cloning Your Repository](#Cloning-Your-Repository)
